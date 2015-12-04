@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$blendmodulatetexture" "construction/blendgypsum"
+	"$basetexture" "construction/gypsumplain"
+	"$basetexture2" "construction/gypsum"
+	
+	"%keywords" "tf"
+	//"$detail" "overlays/detail001"
+	//"$detailscale" "1.9"
+	//"$detailblendmode" "0"
+	//"$detailblendfactor" "1"
+}

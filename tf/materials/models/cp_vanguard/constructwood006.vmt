@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "construction/wood/constructwood006"
+	"$surfaceprop" "wood"
+	"$models" "1"
+	"%keywords" "tf"
+}

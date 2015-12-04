@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_construction/tarp"
+
+	"$surfaceprop" "Default"
+	"$nocull" 1
+	"$alphatest" 1
+
+	"$bumpmap" "models/props_construction/tarp_nrm"
+
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 9 12]"
+	"$lightwarptexture" "models/props_construction/prop_lightwarp"
+
+
+
+}

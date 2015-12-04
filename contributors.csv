@@ -1,0 +1,38 @@
+Asset,Contributor
+models/cp_vanguard/elevator_pod,fubar
+models/cp_vanguard/stairs (set),fubar
+models/cp_vanguard/window01,fubar
+models/props_construction/brickpile (set),equinoxo
+models/props_construction/cinderblock_stack001,ravidge
+models/props_construction/concrete_barrier001,ravidge
+models/props_construction/construction_fence (set),???
+models/props_construction/crane (set),ravidge
+models/props_construction/flatbed,equinoxo
+models/props_construction/ibeam (set),ravidge
+models/props_construction/ladder_aframe (set),ravidge
+models/props_construction/pigeon (set),equinoxo
+models/props_construction/rubble (set),ravidge
+models/props_construction/scaffold (set),ravidge
+models/props_construction/tablesaw,equinoxo
+models/props_construction/tarp (set),equinoxo
+models/props_construction/van (set),equinoxo
+models/props_well/main_entrance_door_frame_alt,fubar
+,
+materials/concrete/concretefloor007c,fubar
+materials/construction/brick/constructwall002,ravidge
+materials/construction/concrete/concreteground001,ravidge
+materials/construction/fabric/fabric003,???
+materials/construction/gypsum,fubar
+materials/construction/gypsumplain,fubar
+materials/construction/signs/strongarm,ravidge
+materials/construction/tensionnetting,equinoxo
+materials/construction/wood/constructwood006,ravidge
+materials/lights/gradient_window_blu,fubar
+materials/lights/gradient_window_red,fubar
+materials/metal/ibeam003b_black,ravidge
+materials/metal/metaltruss001_black,ravidge
+materials/metal/metalwall001_black,ravidge
+materials/tools/toolsblockbulletsnovis,fubar
+materials/vanguard/unlit_arrow_rt_blue,fubar
+materials/vanguard/unlit_arrow_rt_red,fubar
+materials/vanguard/alto,fubar

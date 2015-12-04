@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"  "TF2_AssfaultStripe"
+  	"$decal" 1
+	"$translucent" 1
+	"%keywords" "tf"
+}

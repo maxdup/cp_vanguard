@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"construction/concrete/concreteground001"
+   	"%keywords" "tf"
+	"$surfaceprop" "concrete"
+	"$model" "1"
+}

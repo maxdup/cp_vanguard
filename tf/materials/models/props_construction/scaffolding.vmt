@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_construction/scaffolding"
+	"$bumpmap" "models/effects/flat_normal" 
+
+
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" ".0"
+	"$phongfresnelranges"	"[.25 1 4]"
+	"$basemapalphaphongmask" "0"
+
+}

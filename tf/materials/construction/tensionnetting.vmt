@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "construction/tensionnetting"
+	"$surfaceprop" "dirt"
+	"%keywords" "tf"
+	"$alphatest" 1
+	"$AlphaTestReference" ".25"
+	"$AllowAlphaToCoverage" "1"
+	"$nocull" 1
+}

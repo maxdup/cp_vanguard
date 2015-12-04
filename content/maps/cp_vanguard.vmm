@@ -1,0 +1,109 @@
+Info
+{
+	"NextInternalID" "25"
+}
+Maps
+{
+	VMF
+	{
+		"Name" "dynamic"
+		"File" "dynamic.vmf"
+		"InternalID" "1"
+	}
+	VMF
+	{
+		"Name" "noflip"
+		"File" "noflip.vmf"
+		"InternalID" "2"
+	}
+	VMF
+	{
+		"Name" "skybox"
+		"File" "skybox.vmf"
+		"InternalID" "3"
+	}
+	VMF
+	{
+		"Name" "2nd house"
+		"File" "2ndhouse.vmf"
+		"InternalID" "5"
+	}
+	VMF
+	{
+		"Name" "2nd"
+		"File" "2nd.vmf"
+		"InternalID" "6"
+	}
+	VMF
+	{
+		"Name" "last outsides"
+		"File" "lastoutsides.vmf"
+		"InternalID" "7"
+	}
+	VMF
+	{
+		"Name" "last insides"
+		"File" "lastinsides.vmf"
+		"InternalID" "8"
+	}
+	VMF
+	{
+		"Name" "blu 2nd house"
+		"File" "blu2ndhouse.vmf"
+		"InternalID" "14"
+	}
+	VMF
+	{
+		"Name" "blu2nd"
+		"File" "blu2nd.vmf"
+		"InternalID" "15"
+	}
+	VMF
+	{
+		"Name" "blu last out sides"
+		"File" "blulastoutsides.vmf"
+		"InternalID" "16"
+	}
+	VMF
+	{
+		"Name" "blu last insides"
+		"File" "blulastinside.vmf"
+		"InternalID" "17"
+	}
+	VMF
+	{
+		"Name" "trainhouse"
+		"File" "trainhouse.vmf"
+		"InternalID" "18"
+	}
+	VMF
+	{
+		"Name" "mainhouse"
+		"File" "mainhouse.vmf"
+		"InternalID" "19"
+	}
+	VMF
+	{
+		"Name" "main"
+		"File" "main.vmf"
+		"InternalID" "20"
+	}
+	VMF
+	{
+		"Name" "blutrainhouse"
+		"File" "blutrainhouse.vmf"
+		"InternalID" "22"
+	}
+	VMF
+	{
+		"Name" "blumainhouse"
+		"File" "blumainhouse.vmf"
+		"InternalID" "23"
+	}
+	VMF
+	{
+		"Name" "blumain"
+		"File" "blumain.vmf"
+		"InternalID" "24"
+	}
+}

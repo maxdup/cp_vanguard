@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cp_vanguard/Ibeam003b_black"
+	"$surfaceprop" "metal"
+	"$color" "{30 30 30}"
+	"$model" "1"
+	"%keywords" "tf"
+}

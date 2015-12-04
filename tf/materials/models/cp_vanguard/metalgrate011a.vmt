@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Metal/metalgrate011a"
+	"$surfaceprop" "metalgrate"
+	"$model" 1 
+
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.55"
+	"$AllowAlphaToCoverage" "1"
+}

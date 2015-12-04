@@ -1,0 +1,846 @@
+scripts/soundscapes_cp_vanguard.txt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/scripts/soundscapes_cp_vanguard.txt
+models/props_construction/scaffold_single_bar256.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar256.mdl
+models/props_construction/scaffold_single_bar256.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar256.dx80.vtx
+models/props_construction/scaffold_single_bar256.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar256.dx90.vtx
+models/props_construction/scaffold_single_bar256.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar256.phy
+models/props_construction/scaffold_single_bar256.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar256.sw.vtx
+models/props_construction/scaffold_single_bar256.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar256.vvd
+materials/models/props_construction/scaffolding.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/scaffolding.vmt
+materials/Models/props_construction/scaffolding.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/scaffolding.vtf
+models/props_construction/scaffold_single_bar128.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar128.mdl
+models/props_construction/scaffold_single_bar128.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar128.dx80.vtx
+models/props_construction/scaffold_single_bar128.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar128.dx90.vtx
+models/props_construction/scaffold_single_bar128.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar128.phy
+models/props_construction/scaffold_single_bar128.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar128.sw.vtx
+models/props_construction/scaffold_single_bar128.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar128.vvd
+models/props_construction/ibeam_512_l.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_512_l.mdl
+models/props_construction/ibeam_512_l.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_512_l.dx80.vtx
+models/props_construction/ibeam_512_l.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_512_l.dx90.vtx
+models/props_construction/ibeam_512_l.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_512_l.phy
+models/props_construction/ibeam_512_l.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_512_l.sw.vtx
+models/props_construction/ibeam_512_l.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_512_l.vvd
+materials/models/props_construction/Ibeam.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/Ibeam.vmt
+materials/models/props_construction/Ibeam.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/Ibeam.vtf
+models/props_construction/ibeam_64.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_64.mdl
+models/props_construction/ibeam_64.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_64.dx80.vtx
+models/props_construction/ibeam_64.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_64.dx90.vtx
+models/props_construction/ibeam_64.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_64.phy
+models/props_construction/ibeam_64.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_64.sw.vtx
+models/props_construction/ibeam_64.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_64.vvd
+models/props_construction/ibeam_128.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128.mdl
+models/props_construction/ibeam_128.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128.dx80.vtx
+models/props_construction/ibeam_128.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128.dx90.vtx
+models/props_construction/ibeam_128.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128.phy
+models/props_construction/ibeam_128.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128.sw.vtx
+models/props_construction/ibeam_128.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128.vvd
+models/props_construction/ibeam_128_l.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128_l.mdl
+models/props_construction/ibeam_128_l.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128_l.dx80.vtx
+models/props_construction/ibeam_128_l.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128_l.dx90.vtx
+models/props_construction/ibeam_128_l.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128_l.phy
+models/props_construction/ibeam_128_l.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128_l.sw.vtx
+models/props_construction/ibeam_128_l.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_128_l.vvd
+models/props_construction/ibeam_256_l.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256_l.mdl
+models/props_construction/ibeam_256_l.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256_l.dx80.vtx
+models/props_construction/ibeam_256_l.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256_l.dx90.vtx
+models/props_construction/ibeam_256_l.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256_l.phy
+models/props_construction/ibeam_256_l.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256_l.sw.vtx
+models/props_construction/ibeam_256_l.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256_l.vvd
+models/props_construction/ibeam_end_l.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_end_l.mdl
+models/props_construction/ibeam_end_l.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_end_l.dx80.vtx
+models/props_construction/ibeam_end_l.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_end_l.dx90.vtx
+models/props_construction/ibeam_end_l.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_end_l.phy
+models/props_construction/ibeam_end_l.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_end_l.sw.vtx
+models/props_construction/ibeam_end_l.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_end_l.vvd
+models/props_construction/ibeam_256.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256.mdl
+models/props_construction/ibeam_256.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256.dx80.vtx
+models/props_construction/ibeam_256.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256.dx90.vtx
+models/props_construction/ibeam_256.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256.phy
+models/props_construction/ibeam_256.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256.sw.vtx
+models/props_construction/ibeam_256.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ibeam_256.vvd
+models/props_construction/rubble014.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble014.mdl
+models/props_construction/rubble014.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble014.dx80.vtx
+models/props_construction/rubble014.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble014.dx90.vtx
+models/props_construction/rubble014.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble014.phy
+models/props_construction/rubble014.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble014.sw.vtx
+models/props_construction/rubble014.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble014.vvd
+materials/models/props_construction/rubble.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/rubble.vmt
+materials/Models/props_construction/rubble.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/rubble.vtf
+models/props_construction/rubble016.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble016.mdl
+models/props_construction/rubble016.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble016.dx80.vtx
+models/props_construction/rubble016.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble016.dx90.vtx
+models/props_construction/rubble016.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble016.phy
+models/props_construction/rubble016.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble016.sw.vtx
+models/props_construction/rubble016.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble016.vvd
+models/props_construction/rubble012.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble012.mdl
+models/props_construction/rubble012.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble012.dx80.vtx
+models/props_construction/rubble012.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble012.dx90.vtx
+models/props_construction/rubble012.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble012.phy
+models/props_construction/rubble012.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble012.sw.vtx
+models/props_construction/rubble012.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble012.vvd
+models/props_construction/rubble017.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble017.mdl
+models/props_construction/rubble017.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble017.dx80.vtx
+models/props_construction/rubble017.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble017.dx90.vtx
+models/props_construction/rubble017.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble017.phy
+models/props_construction/rubble017.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble017.sw.vtx
+models/props_construction/rubble017.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble017.vvd
+models/props_construction/rubble015.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble015.mdl
+models/props_construction/rubble015.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble015.dx80.vtx
+models/props_construction/rubble015.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble015.dx90.vtx
+models/props_construction/rubble015.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble015.phy
+models/props_construction/rubble015.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble015.sw.vtx
+models/props_construction/rubble015.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble015.vvd
+models/props_construction/ladder_aframe_tall_folded.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall_folded.mdl
+models/props_construction/ladder_aframe_tall_folded.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall_folded.dx80.vtx
+models/props_construction/ladder_aframe_tall_folded.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall_folded.dx90.vtx
+models/props_construction/ladder_aframe_tall_folded.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall_folded.phy
+models/props_construction/ladder_aframe_tall_folded.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall_folded.sw.vtx
+models/props_construction/ladder_aframe_tall_folded.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall_folded.vvd
+materials/models/props_construction/ladder_aframe.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/ladder_aframe.vmt
+materials/Models/props_construction/ladder_aframe.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/ladder_aframe.vtf
+models/props_construction/tarp_brickpile_large.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_large.mdl
+models/props_construction/tarp_brickpile_large.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_large.dx80.vtx
+models/props_construction/tarp_brickpile_large.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_large.dx90.vtx
+models/props_construction/tarp_brickpile_large.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_large.sw.vtx
+models/props_construction/tarp_brickpile_large.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_large.vvd
+materials/models/props_construction/tarp.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/tarp.vmt
+materials/models/props_construction/tarp.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/tarp.vtf
+materials/models/props_construction/tarp_nrm.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/tarp_nrm.vtf
+materials/models/props_construction/prop_lightwarp.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/prop_lightwarp.vtf
+materials/models/props_construction/ringlet.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/ringlet.vmt
+materials/models/props_construction/ringlet.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/ringlet.vtf
+models/props_construction/tarp_brickpile_pallet.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_pallet.mdl
+models/props_construction/tarp_brickpile_pallet.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_pallet.dx80.vtx
+models/props_construction/tarp_brickpile_pallet.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_pallet.dx90.vtx
+models/props_construction/tarp_brickpile_pallet.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_pallet.sw.vtx
+models/props_construction/tarp_brickpile_pallet.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tarp_brickpile_pallet.vvd
+models/props_construction/scaffold_single_bar192.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar192.mdl
+models/props_construction/scaffold_single_bar192.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar192.dx80.vtx
+models/props_construction/scaffold_single_bar192.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar192.dx90.vtx
+models/props_construction/scaffold_single_bar192.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar192.phy
+models/props_construction/scaffold_single_bar192.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar192.sw.vtx
+models/props_construction/scaffold_single_bar192.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar192.vvd
+models/props_construction/brickpile_large.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_large.mdl
+models/props_construction/brickpile_large.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_large.dx80.vtx
+models/props_construction/brickpile_large.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_large.dx90.vtx
+models/props_construction/brickpile_large.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_large.phy
+models/props_construction/brickpile_large.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_large.sw.vtx
+models/props_construction/brickpile_large.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_large.vvd
+materials/models/props_construction/brickpile.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/brickpile.vmt
+materials/models/props_construction/brickpile.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/brickpile.vtf
+models/props_construction/rubble013.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble013.mdl
+models/props_construction/rubble013.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble013.dx80.vtx
+models/props_construction/rubble013.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble013.dx90.vtx
+models/props_construction/rubble013.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble013.phy
+models/props_construction/rubble013.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble013.sw.vtx
+models/props_construction/rubble013.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble013.vvd
+models/props_construction/brickpile_small.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_small.mdl
+models/props_construction/brickpile_small.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_small.dx80.vtx
+models/props_construction/brickpile_small.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_small.dx90.vtx
+models/props_construction/brickpile_small.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_small.phy
+models/props_construction/brickpile_small.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_small.sw.vtx
+models/props_construction/brickpile_small.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_small.vvd
+models/props_construction/brickpile_pallet.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_pallet.mdl
+models/props_construction/brickpile_pallet.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_pallet.dx80.vtx
+models/props_construction/brickpile_pallet.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_pallet.dx90.vtx
+models/props_construction/brickpile_pallet.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_pallet.phy
+models/props_construction/brickpile_pallet.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_pallet.sw.vtx
+models/props_construction/brickpile_pallet.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/brickpile_pallet.vvd
+models/cp_vanguard/elevator_pod.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/elevator_pod.mdl
+models/cp_vanguard/elevator_pod.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/elevator_pod.dx80.vtx
+models/cp_vanguard/elevator_pod.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/elevator_pod.dx90.vtx
+models/cp_vanguard/elevator_pod.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/elevator_pod.phy
+models/cp_vanguard/elevator_pod.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/elevator_pod.sw.vtx
+models/cp_vanguard/elevator_pod.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/elevator_pod.vvd
+materials/models/cp_vanguard/elevator_IBEAM.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/elevator_IBEAM.vmt
+materials/models/cp_vanguard/elevator_METAL.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/elevator_METAL.vmt
+models/props_construction/scaffold_ground.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_ground.mdl
+models/props_construction/scaffold_ground.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_ground.dx80.vtx
+models/props_construction/scaffold_ground.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_ground.dx90.vtx
+models/props_construction/scaffold_ground.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_ground.phy
+models/props_construction/scaffold_ground.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_ground.sw.vtx
+models/props_construction/scaffold_ground.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_ground.vvd
+models/props_construction/scaffold_single_clamp.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_clamp.mdl
+models/props_construction/scaffold_single_clamp.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_clamp.dx80.vtx
+models/props_construction/scaffold_single_clamp.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_clamp.dx90.vtx
+models/props_construction/scaffold_single_clamp.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_clamp.phy
+models/props_construction/scaffold_single_clamp.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_clamp.sw.vtx
+models/props_construction/scaffold_single_clamp.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_clamp.vvd
+models/cp_vanguard/stairs02.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs02.mdl
+models/cp_vanguard/stairs02.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs02.dx80.vtx
+models/cp_vanguard/stairs02.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs02.dx90.vtx
+models/cp_vanguard/stairs02.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs02.phy
+models/cp_vanguard/stairs02.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs02.sw.vtx
+models/cp_vanguard/stairs02.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs02.vvd
+materials/models/cp_vanguard/floor_tile_005a.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/floor_tile_005a.vmt
+materials/models/cp_vanguard/Ibeam003b_black.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/Ibeam003b_black.vmt
+materials/models/cp_vanguard/Ibeam003b_black.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/Ibeam003b_black.vtf
+materials/models/cp_vanguard/metalstair001a.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/metalstair001a.vmt
+materials/models/cp_vanguard/floor_tile_004d.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/floor_tile_004d.vmt
+models/cp_vanguard/stairs04.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs04.mdl
+models/cp_vanguard/stairs04.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs04.dx80.vtx
+models/cp_vanguard/stairs04.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs04.dx90.vtx
+models/cp_vanguard/stairs04.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs04.phy
+models/cp_vanguard/stairs04.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs04.sw.vtx
+models/cp_vanguard/stairs04.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs04.vvd
+models/cp_vanguard/window01.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/window01.mdl
+models/cp_vanguard/window01.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/window01.dx80.vtx
+models/cp_vanguard/window01.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/window01.dx90.vtx
+models/cp_vanguard/window01.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/window01.phy
+models/cp_vanguard/window01.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/window01.sw.vtx
+models/cp_vanguard/window01.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/window01.vvd
+models/cp_vanguard/stairs01.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs01.mdl
+models/cp_vanguard/stairs01.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs01.dx80.vtx
+models/cp_vanguard/stairs01.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs01.dx90.vtx
+models/cp_vanguard/stairs01.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs01.phy
+models/cp_vanguard/stairs01.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs01.sw.vtx
+models/cp_vanguard/stairs01.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs01.vvd
+materials/models/cp_vanguard/metaltrim01.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/metaltrim01.vmt
+materials/models/cp_vanguard/metalgrate011a.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/metalgrate011a.vmt
+models/cp_vanguard/stairs05.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs05.mdl
+models/cp_vanguard/stairs05.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs05.dx80.vtx
+models/cp_vanguard/stairs05.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs05.dx90.vtx
+models/cp_vanguard/stairs05.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs05.phy
+models/cp_vanguard/stairs05.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs05.sw.vtx
+models/cp_vanguard/stairs05.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs05.vvd
+models/props_construction/scaffold_256.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_256.mdl
+models/props_construction/scaffold_256.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_256.dx80.vtx
+models/props_construction/scaffold_256.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_256.dx90.vtx
+models/props_construction/scaffold_256.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_256.phy
+models/props_construction/scaffold_256.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_256.sw.vtx
+models/props_construction/scaffold_256.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_256.vvd
+models/props_construction/scaffold_post.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_post.mdl
+models/props_construction/scaffold_post.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_post.dx80.vtx
+models/props_construction/scaffold_post.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_post.dx90.vtx
+models/props_construction/scaffold_post.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_post.phy
+models/props_construction/scaffold_post.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_post.sw.vtx
+models/props_construction/scaffold_post.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_post.vvd
+models/props_well/main_entrance_door_frame_alt.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_well/main_entrance_door_frame_alt.mdl
+models/props_well/main_entrance_door_frame_alt.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_well/main_entrance_door_frame_alt.dx80.vtx
+models/props_well/main_entrance_door_frame_alt.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_well/main_entrance_door_frame_alt.dx90.vtx
+models/props_well/main_entrance_door_frame_alt.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_well/main_entrance_door_frame_alt.phy
+models/props_well/main_entrance_door_frame_alt.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_well/main_entrance_door_frame_alt.sw.vtx
+models/props_well/main_entrance_door_frame_alt.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_well/main_entrance_door_frame_alt.vvd
+models/props_construction/flatbed.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/flatbed.mdl
+models/props_construction/flatbed.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/flatbed.dx80.vtx
+models/props_construction/flatbed.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/flatbed.dx90.vtx
+models/props_construction/flatbed.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/flatbed.phy
+models/props_construction/flatbed.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/flatbed.sw.vtx
+models/props_construction/flatbed.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/flatbed.vvd
+materials/models/props_construction/flatbed_yellow.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/flatbed_yellow.vmt
+materials/models/props_construction/flatbed_yellow.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/flatbed_yellow.vtf
+models/props_construction/tablesaw.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tablesaw.mdl
+models/props_construction/tablesaw.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tablesaw.dx80.vtx
+models/props_construction/tablesaw.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tablesaw.dx90.vtx
+models/props_construction/tablesaw.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tablesaw.phy
+models/props_construction/tablesaw.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tablesaw.sw.vtx
+models/props_construction/tablesaw.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/tablesaw.vvd
+materials/models/props_construction/tablesaw.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/tablesaw.vmt
+materials/models/props_construction/tablesaw.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/tablesaw.vtf
+models/props_construction/concrete_barrier001.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/concrete_barrier001.mdl
+models/props_construction/concrete_barrier001.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/concrete_barrier001.dx80.vtx
+models/props_construction/concrete_barrier001.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/concrete_barrier001.dx90.vtx
+models/props_construction/concrete_barrier001.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/concrete_barrier001.phy
+models/props_construction/concrete_barrier001.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/concrete_barrier001.sw.vtx
+models/props_construction/concrete_barrier001.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/concrete_barrier001.vvd
+materials/models/props_construction/concrete_barrier.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/concrete_barrier.vmt
+materials/Models/props_construction/concrete_barrier.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/concrete_barrier.vtf
+models/props_construction/pigeon_2.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_2.mdl
+models/props_construction/pigeon_2.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_2.dx80.vtx
+models/props_construction/pigeon_2.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_2.dx90.vtx
+models/props_construction/pigeon_2.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_2.phy
+models/props_construction/pigeon_2.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_2.sw.vtx
+models/props_construction/pigeon_2.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_2.vvd
+materials/models/props_construction/pigeons.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/pigeons.vmt
+materials/models/props_construction/pigeons.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/pigeons.vtf
+models/props_construction/pigeon_1.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_1.mdl
+models/props_construction/pigeon_1.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_1.dx80.vtx
+models/props_construction/pigeon_1.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_1.dx90.vtx
+models/props_construction/pigeon_1.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_1.phy
+models/props_construction/pigeon_1.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_1.sw.vtx
+models/props_construction/pigeon_1.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_1.vvd
+models/props_construction/pigeon_3.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_3.mdl
+models/props_construction/pigeon_3.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_3.dx80.vtx
+models/props_construction/pigeon_3.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_3.dx90.vtx
+models/props_construction/pigeon_3.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_3.phy
+models/props_construction/pigeon_3.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_3.sw.vtx
+models/props_construction/pigeon_3.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/pigeon_3.vvd
+models/props_construction/van.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.mdl
+models/props_construction/van.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.dx80.vtx
+models/props_construction/van.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.dx90.vtx
+models/props_construction/van.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.phy
+models/props_construction/van.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.sw.vtx
+models/props_construction/van.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.vvd
+materials/models/props_construction/van_yellow.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_yellow.vmt
+materials/models/props_construction/van_yellow.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_yellow.vtf
+materials/models/props_construction/van_graygravel.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_graygravel.vmt
+materials/models/props_construction/van_graygravel.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_graygravel.vtf
+materials/models/props_construction/van_red.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_red.vmt
+materials/models/props_construction/van_red.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_red.vtf
+materials/models/props_construction/van_blu.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_blu.vmt
+materials/models/props_construction/van_blu.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_blu.vtf
+models/props_construction/construction_fence256.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence256.mdl
+models/props_construction/construction_fence256.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence256.dx80.vtx
+models/props_construction/construction_fence256.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence256.dx90.vtx
+models/props_construction/construction_fence256.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence256.phy
+models/props_construction/construction_fence256.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence256.sw.vtx
+models/props_construction/construction_fence256.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence256.vvd
+materials/models/props_construction/construction_fence.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/construction_fence.vmt
+materials/models/props_construction/construction_fence.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/construction_fence.vtf
+models/props_construction/construction_fence_pole.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence_pole.mdl
+models/props_construction/construction_fence_pole.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence_pole.dx80.vtx
+models/props_construction/construction_fence_pole.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence_pole.dx90.vtx
+models/props_construction/construction_fence_pole.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence_pole.phy
+models/props_construction/construction_fence_pole.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence_pole.sw.vtx
+models/props_construction/construction_fence_pole.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence_pole.vvd
+models/props_construction/construction_fence512.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence512.mdl
+models/props_construction/construction_fence512.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence512.dx80.vtx
+models/props_construction/construction_fence512.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence512.dx90.vtx
+models/props_construction/construction_fence512.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence512.phy
+models/props_construction/construction_fence512.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence512.sw.vtx
+models/props_construction/construction_fence512.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/construction_fence512.vvd
+models/cp_vanguard/stairs06.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs06.mdl
+models/cp_vanguard/stairs06.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs06.dx80.vtx
+models/cp_vanguard/stairs06.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs06.dx90.vtx
+models/cp_vanguard/stairs06.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs06.phy
+models/cp_vanguard/stairs06.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs06.sw.vtx
+models/cp_vanguard/stairs06.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/cp_vanguard/stairs06.vvd
+materials/models/cp_vanguard/concreteground001.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/concreteground001.vmt
+materials/construction/concrete/concreteground001.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/concrete/concreteground001.vtf
+materials/models/cp_vanguard/constructwall002.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/constructwall002.vmt
+materials/construction/brick/constructwall002.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/brick/constructwall002.vtf
+materials/models/cp_vanguard/constructwood006.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/cp_vanguard/constructwood006.vmt
+materials/construction/wood/constructwood006.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/wood/constructwood006.vtf
+models/props_construction/ladder_aframe_tall.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall.mdl
+models/props_construction/ladder_aframe_tall.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall.dx80.vtx
+models/props_construction/ladder_aframe_tall.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall.dx90.vtx
+models/props_construction/ladder_aframe_tall.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall.phy
+models/props_construction/ladder_aframe_tall.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall.sw.vtx
+models/props_construction/ladder_aframe_tall.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/ladder_aframe_tall.vvd
+models/props_construction/rubble001.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble001.mdl
+models/props_construction/rubble001.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble001.dx80.vtx
+models/props_construction/rubble001.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble001.dx90.vtx
+models/props_construction/rubble001.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble001.phy
+models/props_construction/rubble001.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble001.sw.vtx
+models/props_construction/rubble001.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/rubble001.vvd
+models/props_construction/scaffold_crossbar.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_crossbar.mdl
+models/props_construction/scaffold_crossbar.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_crossbar.dx80.vtx
+models/props_construction/scaffold_crossbar.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_crossbar.dx90.vtx
+models/props_construction/scaffold_crossbar.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_crossbar.phy
+models/props_construction/scaffold_crossbar.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_crossbar.sw.vtx
+models/props_construction/scaffold_crossbar.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_crossbar.vvd
+models/props_construction/cinderblock_stack001.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/cinderblock_stack001.mdl
+models/props_construction/cinderblock_stack001.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/cinderblock_stack001.dx80.vtx
+models/props_construction/cinderblock_stack001.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/cinderblock_stack001.dx90.vtx
+models/props_construction/cinderblock_stack001.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/cinderblock_stack001.phy
+models/props_construction/cinderblock_stack001.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/cinderblock_stack001.sw.vtx
+models/props_construction/cinderblock_stack001.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/cinderblock_stack001.vvd
+materials/models/props_construction/cinderblock.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/cinderblock.vmt
+materials/Models/props_construction/cinderblock.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/cinderblock.vtf
+models/props_construction/crane_hook.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_hook.mdl
+models/props_construction/crane_hook.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_hook.dx80.vtx
+models/props_construction/crane_hook.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_hook.dx90.vtx
+models/props_construction/crane_hook.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_hook.phy
+models/props_construction/crane_hook.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_hook.sw.vtx
+models/props_construction/crane_hook.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_hook.vvd
+materials/models/props_construction/crane_hook.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/crane_hook.vmt
+materials/Models/props_construction/crane_hook.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/crane_hook.vtf
+models/props_construction/crane_top.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_top.mdl
+models/props_construction/crane_top.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_top.dx80.vtx
+models/props_construction/crane_top.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_top.dx90.vtx
+models/props_construction/crane_top.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_top.phy
+models/props_construction/crane_top.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_top.sw.vtx
+models/props_construction/crane_top.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_top.vvd
+materials/models/props_construction/crane_top.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/crane_top.vmt
+materials/Models/props_construction/crane_top.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/crane_top.vtf
+models/props_construction/crane_mast.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_mast.mdl
+models/props_construction/crane_mast.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_mast.dx80.vtx
+models/props_construction/crane_mast.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_mast.dx90.vtx
+models/props_construction/crane_mast.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_mast.phy
+models/props_construction/crane_mast.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_mast.sw.vtx
+models/props_construction/crane_mast.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_mast.vvd
+materials/models/props_construction/crane_mast.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/crane_mast.vmt
+materials/Models/props_construction/crane_mast.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/crane_mast.vtf
+models/props_construction/crane_ground.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_ground.mdl
+models/props_construction/crane_ground.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_ground.dx80.vtx
+models/props_construction/crane_ground.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_ground.dx90.vtx
+models/props_construction/crane_ground.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_ground.phy
+models/props_construction/crane_ground.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_ground.sw.vtx
+models/props_construction/crane_ground.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_ground.vvd
+materials/models/props_construction/crane_ground.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/crane_ground.vmt
+materials/Models/props_construction/crane_ground.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/crane_ground.vtf
+models/props_construction/crane_trolley.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_trolley.mdl
+models/props_construction/crane_trolley.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_trolley.dx80.vtx
+models/props_construction/crane_trolley.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_trolley.dx90.vtx
+models/props_construction/crane_trolley.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_trolley.phy
+models/props_construction/crane_trolley.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_trolley.sw.vtx
+models/props_construction/crane_trolley.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_trolley.vvd
+materials/models/props_construction/crane_trolley.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/crane_trolley.vmt
+materials/Models/props_construction/crane_trolley.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/crane_trolley.vtf
+models/props_construction/crane_skybox_top.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_top.mdl
+models/props_construction/crane_skybox_top.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_top.dx80.vtx
+models/props_construction/crane_skybox_top.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_top.dx90.vtx
+models/props_construction/crane_skybox_top.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_top.sw.vtx
+models/props_construction/crane_skybox_top.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_top.vvd
+materials/models/props_construction/crane_extras_skybox.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/crane_extras_skybox.vmt
+materials/Models/props_construction/crane_extras_skybox.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/Models/props_construction/crane_extras_skybox.vtf
+models/props_construction/crane_skybox_mast.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_mast.mdl
+models/props_construction/crane_skybox_mast.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_mast.dx80.vtx
+models/props_construction/crane_skybox_mast.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_mast.dx90.vtx
+models/props_construction/crane_skybox_mast.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_mast.sw.vtx
+models/props_construction/crane_skybox_mast.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/crane_skybox_mast.vvd
+materials/CONSTRUCTION/BRICK/CONSTRUCTWALL002.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/BRICK/CONSTRUCTWALL002.vmt
+materials/CONSTRUCTION/TENSIONNETTING.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/TENSIONNETTING.vmt
+materials/construction/tensionnetting.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/tensionnetting.vtf
+materials/CONCRETE/CONCRETEFLOOR007C.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONCRETE/CONCRETEFLOOR007C.vmt
+materials/TOOLS/TOOLSBLOCKBULLETSNOVIS.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/TOOLS/TOOLSBLOCKBULLETSNOVIS.vmt
+materials/CONSTRUCTION/WOOD/CONSTRUCTWOOD006.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/WOOD/CONSTRUCTWOOD006.vmt
+materials/VANGUARD/ALTO.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/VANGUARD/ALTO.vmt
+materials/vanguard/alto.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/vanguard/alto.vtf
+materials/CONSTRUCTION/CONCRETE/CONCRETEGROUND001.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/CONCRETE/CONCRETEGROUND001.vmt
+materials/METAL/IBEAM003B_BLACK.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/METAL/IBEAM003B_BLACK.vmt
+materials/CONSTRUCTION/GYPSUMPLAIN.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/GYPSUMPLAIN.vmt
+materials/construction/gypsumplain.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/gypsumplain.vtf
+materials/CONSTRUCTION/GYPSUM.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/GYPSUM.vmt
+materials/construction/gypsum.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/gypsum.vtf
+materials/CONSTRUCTION/BLENDGYPSUM.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/BLENDGYPSUM.vmt
+materials/construction/blendgypsum.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/blendgypsum.vtf
+materials/CONSTRUCTION/FABRIC/FABRIC003.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/FABRIC/FABRIC003.vmt
+materials/construction/fabric/fabric003.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/fabric/fabric003.vtf
+materials/METAL/METALWALL001_BLACK.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/METAL/METALWALL001_BLACK.vmt
+materials/LIGHTS/GRADIENT_WINDOW_BLU.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/LIGHTS/GRADIENT_WINDOW_BLU.vmt
+materials/METAL/METALTRUSS001_BLACK.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/METAL/METALTRUSS001_BLACK.vmt
+materials/LIGHTS/GRADIENT_WINDOW_RED.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/LIGHTS/GRADIENT_WINDOW_RED.vmt
+materials/NATURE/BLENDGROUNDTOGRAVEL010.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/NATURE/BLENDGROUNDTOGRAVEL010.vmt
+materials/vanguard/unlit_arrow_rt_blue.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/vanguard/unlit_arrow_rt_blue.vmt
+materials/vanguard/unlit_arrow_rt_red.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/vanguard/unlit_arrow_rt_red.vmt
+materials/construction/signs/strongarm.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\custom\tf2m_construction_pack/materials/construction/signs/strongarm.vmt
+materials/construction/signs/strongarm.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/signs/strongarm.vtf
+materials/tf2_assfaultstripe.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/tf2_assfaultstripe.vmt
+materials/TF2_AssfaultStripe.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/TF2_AssfaultStripe.vtf
+materials/construction/signs/sign057b.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\custom\tf2m_construction_pack/materials/construction/signs/sign057b.vmt
+materials/construction/signs/sign057b.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf\custom\tf2m_construction_pack/materials/construction/signs/sign057b.vtf
+materials/vgui/maps/menu_photos_cp_vanguard.vmt
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/vgui/maps/menu_photos_cp_vanguard.vmt
+materials/vgui/maps/menu_photos_cp_vanguard.vtf
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/vgui/maps/menu_photos_cp_vanguard.vtf

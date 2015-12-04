@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"Metal/metalstair001a"
+	"$surfaceprop" "metal"
+	"$model" 1 
+	"%keywords" "tf"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_construction/ringlet"
+	"$surfaceprop" "Metal"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".5"
+	"$phongfresnelranges"	"[1 9 12]"
+	"$lightwarptexture" "models/props_construction/prop_lightwarp"
+}

@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/gravelgrayred001"
+	"$basetexture2"	"concrete/concretefloor007b"
+	"%tooltexture" "Nature/blendgroundtogravel001_tooltexture"
+	"$blendmodulatetexture" "Nature/gravelground001_blendmask"
+	"%keywords" "tf"
+	"$surfaceprop" "dirt"
+}

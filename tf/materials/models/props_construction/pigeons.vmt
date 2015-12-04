@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_construction/pigeons"
+	"$surfaceprop" "Wood_Plank"
+
+//	"$phong" "1"
+//	"$phongexponent" "30"
+//	"$phongboost" ".1"
+//	"$phongfresnelranges"	"[1 9 12]"
+//	"$lightwarptexture" "models/props_construction/prop_lightwarp"
+}
