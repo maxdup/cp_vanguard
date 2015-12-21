@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6971"
-	"mapversion" "31"
+	"editorbuild" "6990"
+	"mapversion" "34"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "39"
+	"mapversion" "83"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -3800,9 +3800,9 @@ world
 		{
 			"id" "683"
 			"plane" "(540 489 16) (540 598 16) (540 598 165)"
-			"material" "CONSTRUCTION/FABRIC/FABRIC003"
-			"uaxis" "[0 1 0 420.571] 0.35"
-			"vaxis" "[0 0 -1 128] 0.35"
+			"material" "CONSTRUCTION/TENSIONNETTING"
+			"uaxis" "[0 1 0 37] 0.25"
+			"vaxis" "[0 0 -1 37] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -5090,82 +5090,6 @@ world
 		editor
 		{
 			"color" "0 142 123"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "3535767"
-		side
-		{
-			"id" "899"
-			"plane" "(620 832 176) (620 608 176) (624 608 176)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "898"
-			"plane" "(624 608 400) (624 608 176) (620 608 176)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "897"
-			"plane" "(624 832 176) (624 608 176) (624 608 400)"
-			"material" "WOOD/WOOD_WALL006B"
-			"uaxis" "[0 1 0 101] 0.25"
-			"vaxis" "[0 0 -1 79] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "896"
-			"plane" "(620 608 400) (620 608 176) (620 832 176)"
-			"material" "METAL/WALL014D_HARBOR"
-			"uaxis" "[0 1 0 384] 0.35"
-			"vaxis" "[0 0 -1 -522] 0.35"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "895"
-			"plane" "(624 608 400) (620 608 400) (620 832 512)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "894"
-			"plane" "(620 832 512) (620 832 176) (624 832 176)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 145 150"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -10059,6 +9983,82 @@ world
 		editor
 		{
 			"color" "0 188 233"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "3535767"
+		side
+		{
+			"id" "2358"
+			"plane" "(620 832 176) (620 608 176) (624 608 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2357"
+			"plane" "(624 608 400) (624 608 176) (620 608 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2356"
+			"plane" "(624 832 176) (624 608 176) (624 608 400)"
+			"material" "WOOD/WOOD_WALL006B"
+			"uaxis" "[0 1 0 101] 0.25"
+			"vaxis" "[0 0 -1 79] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2355"
+			"plane" "(620 608 400) (620 608 176) (620 832 176)"
+			"material" "METAL/WALL014D_HARBOR"
+			"uaxis" "[0 1 0 384] 0.35"
+			"vaxis" "[0 0 -1 -522] 0.35"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2354"
+			"plane" "(624 608 400) (620 608 400) (620 832 512)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2353"
+			"plane" "(620 832 512) (620 832 176) (624 832 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 145 150"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}

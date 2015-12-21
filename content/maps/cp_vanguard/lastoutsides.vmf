@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6971"
-	"mapversion" "353"
+	"editorbuild" "6990"
+	"mapversion" "357"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "5"
+	"mapversion" "89"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -9717,7 +9717,7 @@ entity
 	"EndV" "0"
 	"fademindist" "-1"
 	"material" "overlays/patch007"
-	"sides" "280"
+	"sides" "14668"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-22.8674 -21.5404 0"
@@ -23145,26 +23145,6 @@ entity
 }
 entity
 {
-	"id" "3521888"
-	"classname" "prop_static"
-	"angles" "0 90 6.5"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_mvm/mvm_sign_arrow.mdl"
-	"solid" "6"
-	"origin" "3104 -640 312"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 14000]"
-	}
-}
-entity
-{
 	"id" "3522000"
 	"classname" "prop_static"
 	"angles" "0 270 0"
@@ -26172,6 +26152,26 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 9000]"
+	}
+}
+entity
+{
+	"id" "3521888"
+	"classname" "prop_static"
+	"angles" "0 90 6.5"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_mvm/mvm_sign_arrow.mdl"
+	"solid" "0"
+	"origin" "3104 -640 312"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2000 14000]"
 	}
 }
 cameras
