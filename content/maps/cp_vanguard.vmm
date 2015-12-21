@@ -1,6 +1,6 @@
 Info
 {
-	"NextInternalID" "25"
+	"NextInternalID" "26"
 }
 Maps
 {
@@ -105,5 +105,11 @@ Maps
 		"Name" "blumain"
 		"File" "blumain.vmf"
 		"InternalID" "24"
+	}
+	VMF
+	{
+		"Name" "optimization"
+		"File" "optimization.vmf"
+		"InternalID" "25"
 	}
 }
