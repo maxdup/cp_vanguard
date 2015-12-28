@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6990"
-	"mapversion" "139"
+	"mapversion" "140"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "82"
+	"mapversion" "15"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -13062,7 +13062,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 214 243"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -17215,7 +17215,8 @@ entity
 	"_light" "255 255 255 600"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
+	"_linear_attn" "1"
+	"_quadratic_attn" "0"
 	"_zero_percent_distance" "0"
 	"angles" "-48.6127 237.813 -32.22"
 	"pitch" "-48.6127"
@@ -26993,7 +26994,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 145 150"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}

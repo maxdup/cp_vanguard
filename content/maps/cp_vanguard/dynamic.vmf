@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6971"
-	"mapversion" "144"
+	"editorbuild" "6990"
+	"mapversion" "156"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "144"
+	"mapversion" "4"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -48,10 +48,310 @@ world
 	}
 	group
 	{
-		"id" "55"
+		"id" "3523610"
 		editor
 		{
-			"color" "0 168 137"
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523867"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523870"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523873"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523876"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523879"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523882"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523885"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523888"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523891"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523894"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523897"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523900"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523903"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523906"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523909"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523912"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523915"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523918"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523921"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523924"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523927"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523930"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523933"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523936"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523939"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523942"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523945"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523948"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523951"
+		editor
+		{
+			"color" "0 115 224"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "3523954"
+		editor
+		{
+			"color" "0 115 224"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -74,216 +374,12 @@ entity
 }
 entity
 {
-	"id" "92"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5472 1056 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3033.9]"
-	}
-}
-entity
-{
-	"id" "94"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5536 1056 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7140.73 3044.21]"
-	}
-}
-entity
-{
-	"id" "96"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5536 1152 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7140.73 3057.97]"
-	}
-}
-entity
-{
-	"id" "98"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5408 1152 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3037.87]"
-	}
-}
-entity
-{
-	"id" "100"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5472 1152 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3041.24]"
-	}
-}
-entity
-{
-	"id" "102"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5408 1056 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3051.64]"
-	}
-}
-entity
-{
-	"id" "104"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5536 768 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7149.33 3033.81]"
-	}
-}
-entity
-{
-	"id" "106"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5472 768 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3027.48]"
-	}
-}
-entity
-{
-	"id" "108"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5408 768 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7149.33 3054.61]"
-	}
-}
-entity
-{
-	"id" "110"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5536 864 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7140.73 3047.57]"
-	}
-}
-entity
-{
-	"id" "112"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5472 864 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3058.67]"
-	}
-}
-entity
-{
-	"id" "114"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5408 864 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3062.03]"
-	}
-}
-entity
-{
 	"id" "116"
 	"classname" "info_player_teamspawn"
 	"angles" "0 0 0"
 	"controlpoint" "cp_blu1"
 	"TeamNum" "3"
-	"origin" "-5360 768 400"
+	"origin" "-5360 672 400"
 	editor
 	{
 		"color" "0 115 224"
@@ -291,329 +387,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-7140.73 3037.18]"
-	}
-}
-entity
-{
-	"id" "118"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5408 960 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3048.27]"
-	}
-}
-entity
-{
-	"id" "120"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5472 960 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3030.53]"
-	}
-}
-entity
-{
-	"id" "122"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"controlpoint" "cp_blu1"
-	"TeamNum" "3"
-	"origin" "-5536 960 400"
-	editor
-	{
-		"color" "0 115 224"
-		"groupid" "91"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3030.84]"
-	}
-}
-entity
-{
-	"id" "56"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5472 -1152 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3041.24]"
-	}
-}
-entity
-{
-	"id" "58"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5408 -1152 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3037.87]"
-	}
-}
-entity
-{
-	"id" "60"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5536 -1152 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7140.73 3057.97]"
-	}
-}
-entity
-{
-	"id" "62"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5536 -1056 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7140.73 3044.21]"
-	}
-}
-entity
-{
-	"id" "64"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5472 -1056 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3033.9]"
-	}
-}
-entity
-{
-	"id" "66"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5408 -1056 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3051.64]"
-	}
-}
-entity
-{
-	"id" "68"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5408 -959.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3048.27]"
-	}
-}
-entity
-{
-	"id" "70"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5472 -959.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3030.53]"
-	}
-}
-entity
-{
-	"id" "72"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5536 -959.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3030.84]"
-	}
-}
-entity
-{
-	"id" "74"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5360 -767.999 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7140.73 3037.18]"
-	}
-}
-entity
-{
-	"id" "76"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5408 -863.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3062.03]"
-	}
-}
-entity
-{
-	"id" "78"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5472 -863.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7143.73 3058.67]"
-	}
-}
-entity
-{
-	"id" "80"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5536 -863.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7140.73 3047.57]"
-	}
-}
-entity
-{
-	"id" "82"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5536 -767.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7149.33 3033.81]"
-	}
-}
-entity
-{
-	"id" "84"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5472 -767.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7152.33 3027.48]"
-	}
-}
-entity
-{
-	"id" "86"
-	"classname" "info_player_teamspawn"
-	"angles" "0 180 0"
-	"controlpoint" "cp_red1"
-	"TeamNum" "2"
-	"origin" "5408 -767.997 399"
-	editor
-	{
-		"color" "0 168 137"
-		"groupid" "55"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7149.33 3054.61]"
 	}
 }
 entity
@@ -1441,7 +1214,7 @@ entity
 	"speed" "1000"
 	"targetname" "door_redspawn3"
 	"unlocked_sentence" "0"
-	"wait" "0"
+	"wait" "-1"
 	solid
 	{
 		"id" "4439"
@@ -4338,12 +4111,12 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "10"
-	"spawnflags" "0"
+	"spawnflags" "32"
 	"spawnpos" "0"
 	"speed" "1000"
 	"targetname" "door_bluspawn3"
 	"unlocked_sentence" "0"
-	"wait" "0"
+	"wait" "-1"
 	solid
 	{
 		"id" "4513"
@@ -4636,7 +4409,7 @@ entity
 	"speed" "1000"
 	"targetname" "door_redspawn3b"
 	"unlocked_sentence" "0"
-	"wait" "4"
+	"wait" "-1"
 	solid
 	{
 		"id" "4438"
@@ -4740,12 +4513,12 @@ entity
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "10"
-	"spawnflags" "0"
+	"spawnflags" "32"
 	"spawnpos" "0"
 	"speed" "1000"
 	"targetname" "door_bluspawn3b"
 	"unlocked_sentence" "0"
-	"wait" "0"
+	"wait" "-1"
 	solid
 	{
 		"id" "4514"
@@ -6673,7 +6446,7 @@ entity
 	"spawnflags" "0"
 	"StartDisabled" "0"
 	"targetname" "prop_locker_red_2"
-	"origin" "5364 -591.999 396"
+	"origin" "5364 -592 384"
 	editor
 	{
 		"color" "220 30 220"
@@ -8251,6 +8024,533 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-8669.57 4445.44]"
+	}
+}
+entity
+{
+	"id" "3523611"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5360 -672 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523610"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523868"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5416 -672 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523867"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523871"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5472 -672 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523870"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523874"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5528 -672 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523873"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523877"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5528 -736 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523876"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523880"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5472 -736 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523879"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523883"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5416 -736 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523882"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523886"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5416 -800 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523885"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523889"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5472 -800 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523888"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523892"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5528 -800 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523891"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523895"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5528 -864 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523894"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523898"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5472 -864 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523897"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523901"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5416 -864 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523900"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523904"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5416 -928 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523903"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523907"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5472 -928 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523906"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523910"
+	"classname" "info_player_teamspawn"
+	"angles" "0 180 0"
+	"controlpoint" "cp_red1"
+	"TeamNum" "2"
+	"origin" "5528 -928 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523909"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523913"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5416 672 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523912"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523916"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5472 672 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523915"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523919"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5528 672 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523918"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523922"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5528 736 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523921"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523925"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5472 736 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523924"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523928"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5416 736 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523927"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523931"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5416 800 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523930"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523934"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5472 800 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523933"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523937"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5528 800 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523936"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523940"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5528 864 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523939"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523943"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5472 864 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523942"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523946"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5416 864 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523945"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523949"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5416 928 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523948"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523952"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5472 928 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523951"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
+	}
+}
+entity
+{
+	"id" "3523955"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"controlpoint" "cp_blu1"
+	"TeamNum" "3"
+	"origin" "-5528 928 400"
+	editor
+	{
+		"color" "0 115 224"
+		"groupid" "3523954"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-7140.73 3037.18]"
 	}
 }
 cameras
