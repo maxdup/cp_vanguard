@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6944"
-	"mapversion" "13"
+	"editorbuild" "6990"
+	"mapversion" "18"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "13"
+	"mapversion" "18"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -299,13 +299,29 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "587"
+	"classname" "func_instance"
+	"angles" "-0 0 0"
+	"file" "cp_vanguard/optimization.vmf"
+	"fixup_style" "2"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "-1"
 }
 cordon
 {
-	"mins" "(0 -2560 -1024)"
-	"maxs" "(6144 1024 1024)"
+	"mins" "(-256 -2304 -256)"
+	"maxs" "(6912 6144 2048)"
 	"active" "0"
 }

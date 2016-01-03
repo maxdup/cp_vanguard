@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6990"
-	"mapversion" "94"
+	"editorbuild" "7006"
+	"mapversion" "101"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "15"
+	"mapversion" "92"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -32092,6 +32092,158 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "3548131"
+		side
+		{
+			"id" "10903"
+			"plane" "(-1888 -768 320) (-1892 -768 320) (-1892 -424 320)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 -1 0 0.00213217] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10902"
+			"plane" "(-1888 -424 288) (-1892 -424 288) (-1892 -768 288)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 -1 0 -0.00213217] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10901"
+			"plane" "(-1888 -768 288) (-1892 -768 288) (-1892 -768 320)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10900"
+			"plane" "(-1892 -424 288) (-1888 -424 288) (-1888 -424 320)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10899"
+			"plane" "(-1892 -768 288) (-1892 -424 288) (-1892 -424 320)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 -1 0 0.00213217] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10898"
+			"plane" "(-1888 -424 288) (-1888 -768 288) (-1888 -768 320)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[0 -1 0 0.00201416] 0.25"
+			"rotation" "90"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 223 248"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "3548144"
+		side
+		{
+			"id" "10915"
+			"plane" "(-824 956 192) (-1024 956 192) (-1024 960 192)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00213217] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10914"
+			"plane" "(-824 960 160) (-1024 960 160) (-1024 956 160)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00213217] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10913"
+			"plane" "(-1024 960 160) (-824 960 160) (-824 960 192)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10912"
+			"plane" "(-824 956 160) (-1024 956 160) (-1024 956 192)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10911"
+			"plane" "(-1024 956 160) (-1024 960 160) (-1024 960 192)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 -1 0 0.00213217] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10910"
+			"plane" "(-824 960 160) (-824 956 160) (-824 956 192)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 -1 0 0.00213217] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 201 114"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "391"
@@ -39991,7 +40143,7 @@ entity
 		{
 			"id" "7475"
 			"plane" "(-2540 -15.9997 316) (-1928 -15.9997 316) (-1928 -19.9997 320)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 -0.00390625] 0.25"
 			"vaxis" "[0 -1 0 0.00213217] 0.25"
 			"rotation" "0"
@@ -40002,7 +40154,7 @@ entity
 		{
 			"id" "7474"
 			"plane" "(-2540 -19.9997 288) (-1928 -19.9997 288) (-1928 -15.9997 288)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 -0.00390625] 0.25"
 			"vaxis" "[0 -1 0 0.00213217] 0.25"
 			"rotation" "0"
@@ -40013,7 +40165,7 @@ entity
 		{
 			"id" "7473"
 			"plane" "(-1928 -19.9997 288) (-2540 -19.9997 288) (-2540 -19.9997 320)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[-1 0 0 0.00390625] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -40024,7 +40176,7 @@ entity
 		{
 			"id" "7472"
 			"plane" "(-2540 -15.9997 288) (-1928 -15.9997 288) (-1928 -15.9997 316)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[-1 0 0 0.00390625] 0.25"
 			"rotation" "90"
@@ -40035,7 +40187,7 @@ entity
 		{
 			"id" "7471"
 			"plane" "(-2540 -19.9997 288) (-2540 -15.9997 288) (-2540 -15.9997 316)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 -1 0 0.00213217] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -40046,7 +40198,7 @@ entity
 		{
 			"id" "7470"
 			"plane" "(-1928 -19.9997 320) (-1928 -15.9997 316) (-1928 -15.9997 288)"
-			"material" "TOOLS/TOOLSPLAYERCLIP"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 0 1 0] 0.25"
 			"vaxis" "[0 -1 0 0.00213217] 0.25"
 			"rotation" "90"
@@ -46087,7 +46239,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props_trainyard/handrail216.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-931.999 960 160"
 	editor
 	{
@@ -49935,8 +50087,8 @@ entity
 			"id" "8111"
 			"plane" "(-1272 -824 552) (-1532 -824 552) (-1532 -824 568)"
 			"material" "CONSTRUCTION/WOOD/CONSTRUCTWOOD006"
-			"uaxis" "[0 0 1 -768] 0.25"
-			"vaxis" "[-1 0 0 0.00390625] 0.25"
+			"uaxis" "[0 0 1 -816] 0.25"
+			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -49946,8 +50098,8 @@ entity
 			"id" "8110"
 			"plane" "(-1532 -824 552) (-1272 -824 552) (-1272 -808 552)"
 			"material" "CONSTRUCTION/WOOD/CONSTRUCTWOOD006"
-			"uaxis" "[0 -1 0 -815.998] 0.25"
-			"vaxis" "[-1 0 0 0.00390625] 0.25"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -50758,7 +50910,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props_trainyard/handrail128.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1890 -490 288"
 	editor
 	{
@@ -50787,7 +50939,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props_trainyard/handrail216.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1890 -660 288"
 	editor
 	{

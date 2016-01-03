@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6990"
-	"mapversion" "213"
+	"editorbuild" "7006"
+	"mapversion" "229"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "67"
+	"mapversion" "94"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -2188,9 +2188,9 @@ world
 		{
 			"id" "1865"
 			"plane" "(-3072 1880 680) (-3072 1880 336) (-3072 1864 336)"
-			"material" "COALMINES/BLUE_WALL1_MIDDLE"
-			"uaxis" "[0 -1 0 -128] 0.25"
-			"vaxis" "[0 0 -1 448] 0.25"
+			"material" "CONCRETE/CONCRETEWALL013"
+			"uaxis" "[0 -1 0 448] 0.25"
+			"vaxis" "[0 0 -1 704] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -9082,6 +9082,82 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "3588937"
+		side
+		{
+			"id" "5017"
+			"plane" "(-3280 1120 720) (-3296 1120 720) (-3296 672 720)"
+			"material" "CONCRETE/CONCRETEWALL013A"
+			"uaxis" "[0 1 0 448] 0.4"
+			"vaxis" "[1 0 0 128] 0.5"
+			"rotation" "0"
+			"lightmapscale" "128"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5016"
+			"plane" "(-3296 672 928) (-3296 672 720) (-3296 1120 720)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 -24] 0.25"
+			"vaxis" "[0 0 -1 -32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5015"
+			"plane" "(-3296 1120 928) (-3296 1120 720) (-3280 1120 720)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 0 -1 -32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5014"
+			"plane" "(-3280 672 928) (-3280 672 720) (-3296 672 720)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 0 -1 -32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5013"
+			"plane" "(-3280 1120 928) (-3280 1120 720) (-3280 672 720)"
+			"material" "CONCRETE/CONCRETEWALL013A"
+			"uaxis" "[0 1 0 448] 0.4"
+			"vaxis" "[0 0 -1 96] 0.5"
+			"rotation" "0"
+			"lightmapscale" "128"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5012"
+			"plane" "(-3280 672 928) (-3296 672 928) (-3296 1120 928)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 136 133"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "106"
@@ -9815,7 +9891,7 @@ entity
 	"model" "models/props_farm/gutter_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3055 1788 648"
+	"origin" "-3056 1760 648"
 	editor
 	{
 		"color" "255 255 0"
@@ -9839,7 +9915,7 @@ entity
 	"model" "models/props_farm/gutter_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3055 1660 648"
+	"origin" "-3056 1632 648"
 	editor
 	{
 		"color" "255 255 0"
@@ -9863,7 +9939,7 @@ entity
 	"model" "models/props_farm/gutter_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3055 1532 648"
+	"origin" "-3056 1504 648"
 	editor
 	{
 		"color" "255 255 0"
@@ -9958,30 +10034,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 7000]"
-	}
-}
-entity
-{
-	"id" "258"
-	"classname" "prop_static"
-	"angles" "0 90 0"
-	"disablevertexlighting" "1"
-	"fademaxdist" "0.0"
-	"fademindist" "0.0"
-	"fadescale" "1"
-	"generatelightmaps" "0"
-	"lightmapresolutionx" "0"
-	"lightmapresolutiony" "0"
-	"model" "models/props_farm/gutter_128.mdl"
-	"skin" "1"
-	"solid" "0"
-	"origin" "-3056 1404 648"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 12000]"
 	}
 }
 entity
@@ -10205,8 +10257,8 @@ entity
 			"id" "2319"
 			"plane" "(-2824 284 384) (-2824 288 384) (-3200 288 384)"
 			"material" "METAL/METALDOOR001"
-			"uaxis" "[-1 0 0 -0.00195313] 0.25"
-			"vaxis" "[0 1 0 0] 0.25"
+			"uaxis" "[-1 0 0 -32] 0.25"
+			"vaxis" "[0 1 0 -153] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -14385,7 +14437,7 @@ entity
 	"model" "models/props_farm/gutter_hole.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3041 1884 648"
+	"origin" "-3042 1856 648"
 	editor
 	{
 		"color" "255 255 0"
@@ -14409,7 +14461,7 @@ entity
 	"model" "models/props_farm/gutter_pipe_connect.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3058 1884 629"
+	"origin" "-3059 1856 629"
 	editor
 	{
 		"color" "255 255 0"
@@ -14433,7 +14485,7 @@ entity
 	"model" "models/props_farm/gutter_pipe_end.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3057 1884 364"
+	"origin" "-3058 1856 364"
 	editor
 	{
 		"color" "255 255 0"
@@ -14457,7 +14509,7 @@ entity
 	"model" "models/props_farm/gutter_pipe_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3068 1884 435"
+	"origin" "-3069 1856 435"
 	editor
 	{
 		"color" "255 255 0"
@@ -14481,7 +14533,7 @@ entity
 	"model" "models/props_farm/gutter_pipe_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-3068 1884 560"
+	"origin" "-3069 1856 560"
 	editor
 	{
 		"color" "255 255 0"
@@ -20655,7 +20707,7 @@ entity
 	"model" "models/props_farm/gutter_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-2958 880 602"
+	"origin" "-2958 864 602"
 	editor
 	{
 		"color" "255 255 0"
@@ -20679,7 +20731,7 @@ entity
 	"model" "models/props_farm/gutter_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-2958 752 602"
+	"origin" "-2958 736 602"
 	editor
 	{
 		"color" "255 255 0"
@@ -20703,7 +20755,7 @@ entity
 	"model" "models/props_farm/gutter_end001.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-2951 672 602"
+	"origin" "-2951 656 602"
 	editor
 	{
 		"color" "255 255 0"
@@ -20727,37 +20779,13 @@ entity
 	"model" "models/props_farm/gutter_128.mdl"
 	"skin" "1"
 	"solid" "0"
-	"origin" "-2958 1008 602"
+	"origin" "-2958 992 602"
 	editor
 	{
 		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 16000]"
-	}
-}
-entity
-{
-	"id" "3588722"
-	"classname" "prop_static"
-	"angles" "0 270 0"
-	"disablevertexlighting" "1"
-	"fademaxdist" "0.0"
-	"fademindist" "0.0"
-	"fadescale" "1"
-	"generatelightmaps" "0"
-	"lightmapresolutionx" "0"
-	"lightmapresolutiony" "0"
-	"model" "models/props_farm/gutter_hole.mdl"
-	"skin" "1"
-	"solid" "0"
-	"origin" "-2944 1104 602"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2500 12500]"
 	}
 }
 entity
@@ -20854,6 +20882,123 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 14000]"
+	}
+}
+entity
+{
+	"id" "3589180"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"disablevertexlighting" "1"
+	"fademaxdist" "0.0"
+	"fademindist" "0.0"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"lightmapresolutionx" "0"
+	"lightmapresolutiony" "0"
+	"model" "models/props_farm/gutter_end001.mdl"
+	"skin" "1"
+	"solid" "0"
+	"origin" "-3049 1360 648"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 12000]"
+	}
+}
+entity
+{
+	"id" "3589192"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disablevertexlighting" "1"
+	"fademaxdist" "0.0"
+	"fademindist" "0.0"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"lightmapresolutionx" "0"
+	"lightmapresolutiony" "0"
+	"model" "models/props_farm/gutter_64.mdl"
+	"skin" "1"
+	"solid" "0"
+	"origin" "-3056 1408 648"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 12000]"
+	}
+}
+entity
+{
+	"id" "3589251"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disablevertexlighting" "1"
+	"fademaxdist" "0.0"
+	"fademindist" "0.0"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"lightmapresolutionx" "0"
+	"lightmapresolutiony" "0"
+	"model" "models/props_farm/gutter_64.mdl"
+	"skin" "1"
+	"solid" "0"
+	"origin" "-2958 1088 602"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 12000]"
+	}
+}
+entity
+{
+	"id" "3589263"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disablevertexlighting" "1"
+	"fademaxdist" "0.0"
+	"fademindist" "0.0"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"lightmapresolutionx" "0"
+	"lightmapresolutiony" "0"
+	"model" "models/props_farm/gutter_end001.mdl"
+	"skin" "1"
+	"solid" "0"
+	"origin" "-2951 1136 602"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 12000]"
+	}
+}
+entity
+{
+	"id" "3589105"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_harbor/blue_letter_sign_harbor01_ref.mdl"
+	"skin" "0"
+	"solid" "0"
+	"origin" "-3264 896 776"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras

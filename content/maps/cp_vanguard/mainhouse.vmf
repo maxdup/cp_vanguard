@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6990"
-	"mapversion" "140"
+	"editorbuild" "7006"
+	"mapversion" "143"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "15"
+	"mapversion" "83"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -4602,9 +4602,9 @@ world
 			"id" "1725"
 			"plane" "(1024 -276 1046.67) (1024 -276 1042.67) (684 -276 816)"
 			"material" "METAL/WALL015G"
-			"uaxis" "[0 0 1 0] 0.25"
-			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "90"
+			"uaxis" "[0.554706 0 -0.832046 94.1245] 0.25"
+			"vaxis" "[0.692301 -0.554706 0.461541 -253.002] 0.25"
+			"rotation" "0"
 			"lightmapscale" "64"
 			"smoothing_groups" "0"
 			dispinfo
@@ -4973,9 +4973,9 @@ world
 			"id" "1731"
 			"plane" "(1364 -276 820) (1364 -276 816) (1024 -276 1042.67)"
 			"material" "METAL/WALL015G"
-			"uaxis" "[0 0 1 0] 0.25"
-			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "90"
+			"uaxis" "[-0.554706 0 -0.832046 542.276] 0.25"
+			"vaxis" "[0.692301 0.554706 -0.461541 725.669] 0.25"
+			"rotation" "0"
 			"lightmapscale" "64"
 			"smoothing_groups" "0"
 			dispinfo
@@ -8390,9 +8390,9 @@ world
 			"id" "2969"
 			"plane" "(836 -656 516) (836 -656 520) (320 -656 416.805)"
 			"material" "METAL/WALL015G"
-			"uaxis" "[0 0 1 0] 0.25"
-			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "90"
+			"uaxis" "[0.196107 0 -0.980582 -216.17] 0.25"
+			"vaxis" "[0.961542 -0.196107 0.192299 -785.964] 0.25"
+			"rotation" "0"
 			"lightmapscale" "64"
 			"smoothing_groups" "0"
 			dispinfo
