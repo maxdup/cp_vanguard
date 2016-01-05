@@ -1,6 +1,6 @@
 # Vanguard
 
-A level by Maxime 'Fubar' Dupuis with additionnal assets from Kevin 'Ravidge' Brook and Gavin 'Equinoxo' Sawford
+A level by Maxime 'Fubar' Dupuis with additionnal assets from Kevin 'Ravidge' Brook, Gavin 'Equinoxo' Sawford and Sebastian 'Seba' Grus
 
 ## The project folder "content\vanguard"
 - **cp_vanguard.vmf** is used for compiling the level.

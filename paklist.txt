@@ -542,6 +542,16 @@ models/props_construction/van.sw.vtx
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.sw.vtx
 models/props_construction/van.vvd
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/van.vvd
+models/props_mvm/mine_elevator_door_s.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/mine_elevator_door_s.mdl
+models/props_mvm/mine_elevator_door_s.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/mine_elevator_door_s.dx80.vtx
+models/props_mvm/mine_elevator_door_s.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/mine_elevator_door_s.dx90.vtx
+models/props_mvm/mine_elevator_door_s.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/mine_elevator_door_s.sw.vtx
+models/props_mvm/mine_elevator_door_s.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/mine_elevator_door_s.vvd
 materials/models/props_construction/van_yellow.vmt
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/models/props_construction/van_yellow.vmt
 materials/models/props_construction/van_yellow.vtf
@@ -810,10 +820,6 @@ materials/CONSTRUCTION/BLENDGYPSUM.vmt
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/BLENDGYPSUM.vmt
 materials/construction/blendgypsum.vtf
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/blendgypsum.vtf
-materials/CONSTRUCTION/FABRIC/FABRIC003.vmt
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/CONSTRUCTION/FABRIC/FABRIC003.vmt
-materials/construction/fabric/fabric003.vtf
-C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/construction/fabric/fabric003.vtf
 materials/METAL/METALWALL001_BLACK.vmt
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/materials/METAL/METALWALL001_BLACK.vmt
 materials/LIGHTS/GRADIENT_WINDOW_BLU.vmt
