@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7006"
-	"mapversion" "28"
+	"mapversion" "30"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "76"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -2555,9 +2555,9 @@ entity
 			"id" "59"
 			"plane" "(6.11959e-006 -140 228) (8.00001 -136 228) (-104 88 228)"
 			"material" "METAL/IBEAM001B"
-			"uaxis" "[-0.422618 0.906308 0 -4.00152] 0.25"
-			"vaxis" "[0.906308 0.422618 0 -104] 0.25"
-			"rotation" "115"
+			"uaxis" "[-0.894427 -0.447214 0 145.56] 0.25"
+			"vaxis" "[-0.4 0.8 0.447214 400.141] 0.25"
+			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
@@ -2631,9 +2631,9 @@ entity
 			"id" "65"
 			"plane" "(104 -88 228) (112 -84 228) (-6.11959e-006 140 228)"
 			"material" "METAL/IBEAM001B"
-			"uaxis" "[-0.422618 0.906308 0 -4.00152] 0.25"
-			"vaxis" "[0.906308 0.422618 0 -104] 0.25"
-			"rotation" "115"
+			"uaxis" "[-0.894427 -0.447214 0 98.6624] 0.25"
+			"vaxis" "[-0.4 0.8 0.447214 608.141] 0.25"
+			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7006"
-	"mapversion" "229"
+	"mapversion" "230"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "94"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -19908,7 +19908,7 @@ entity
 {
 	"id" "3588692"
 	"classname" "func_lod"
-	"DisappearDist" "2000"
+	"DisappearDist" "2300"
 	"Solid" "1"
 	solid
 	{
@@ -20302,7 +20302,7 @@ entity
 {
 	"id" "3588699"
 	"classname" "func_lod"
-	"DisappearDist" "2000"
+	"DisappearDist" "2300"
 	"Solid" "1"
 	solid
 	{
