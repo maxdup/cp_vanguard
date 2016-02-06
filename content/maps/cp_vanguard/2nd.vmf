@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7006"
-	"mapversion" "125"
+	"editorbuild" "7026"
+	"mapversion" "126"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "108"
+	"mapversion" "4"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -5717,7 +5717,159 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 143 180"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "3590316"
+		side
+		{
+			"id" "3824"
+			"plane" "(2484 -1088 212) (2504 -1076 212) (2656 -1076 212)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 15.9962] 0.25"
+			"vaxis" "[0 -1 0 0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3823"
+			"plane" "(2504 -1076 32) (2484 -1088 32) (2656 -1088 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 15.9962] 0.25"
+			"vaxis" "[0 -1 0 0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3822"
+			"plane" "(2504 -1076 212) (2484 -1088 212) (2484 -1088 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 -48.0039] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3821"
+			"plane" "(2656 -1088 212) (2656 -1076 212) (2656 -1076 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 -48.0039] 0.25"
+			"vaxis" "[0 0 -1 -13] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3820"
+			"plane" "(2484 -1088 212) (2656 -1088 212) (2656 -1088 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 -0.00372721] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3819"
+			"plane" "(2656 -1076 212) (2504 -1076 212) (2504 -1076 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 -0.00372721] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 114 247"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "3590317"
+		side
+		{
+			"id" "3830"
+			"plane" "(2656 -744 212) (2656 -764 212) (2496 -764 212)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[1 0 0 15.9962] 0.25"
+			"vaxis" "[0 -1 0 0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3829"
+			"plane" "(2656 -764 32) (2656 -744 32) (2496 -744 32)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[1 0 0 15.9962] 0.25"
+			"vaxis" "[0 -1 0 0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3828"
+			"plane" "(2496 -764 32) (2496 -744 32) (2496 -744 212)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[0 1 0 -48.0039] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3827"
+			"plane" "(2656 -744 32) (2656 -764 32) (2656 -764 212)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[0 1 0 -48.0039] 0.25"
+			"vaxis" "[0 0 -1 -13] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3826"
+			"plane" "(2656 -764 32) (2496 -764 32) (2496 -764 212)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[1 0 0 -0.00372721] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3825"
+			"plane" "(2496 -744 32) (2656 -744 32) (2656 -744 212)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[1 0 0 -0.00372721] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 114 247"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
