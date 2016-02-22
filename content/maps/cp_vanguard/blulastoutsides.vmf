@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7006"
-	"mapversion" "230"
+	"editorbuild" "7026"
+	"mapversion" "233"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "24"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -9090,8 +9090,8 @@ world
 			"id" "5017"
 			"plane" "(-3280 1120 720) (-3296 1120 720) (-3296 672 720)"
 			"material" "CONCRETE/CONCRETEWALL013A"
-			"uaxis" "[0 1 0 448] 0.4"
-			"vaxis" "[1 0 0 128] 0.5"
+			"uaxis" "[1 0 0 448] 0.4"
+			"vaxis" "[0 -1 0 128] 0.5"
 			"rotation" "0"
 			"lightmapscale" "128"
 			"smoothing_groups" "0"
@@ -9099,7 +9099,7 @@ world
 		side
 		{
 			"id" "5016"
-			"plane" "(-3296 672 928) (-3296 672 720) (-3296 1120 720)"
+			"plane" "(-3296 672 952) (-3296 672 720) (-3296 1120 720)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 -24] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
@@ -9110,7 +9110,7 @@ world
 		side
 		{
 			"id" "5015"
-			"plane" "(-3296 1120 928) (-3296 1120 720) (-3280 1120 720)"
+			"plane" "(-3296 1120 952) (-3296 1120 720) (-3280 1120 720)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
@@ -9121,7 +9121,7 @@ world
 		side
 		{
 			"id" "5014"
-			"plane" "(-3280 672 928) (-3280 672 720) (-3296 672 720)"
+			"plane" "(-3280 672 952) (-3280 672 720) (-3296 672 720)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
@@ -9132,7 +9132,7 @@ world
 		side
 		{
 			"id" "5013"
-			"plane" "(-3280 1120 928) (-3280 1120 720) (-3280 672 720)"
+			"plane" "(-3280 1120 952) (-3280 1120 720) (-3280 672 720)"
 			"material" "CONCRETE/CONCRETEWALL013A"
 			"uaxis" "[0 1 0 448] 0.4"
 			"vaxis" "[0 0 -1 96] 0.5"
@@ -9143,7 +9143,7 @@ world
 		side
 		{
 			"id" "5012"
-			"plane" "(-3280 672 928) (-3296 672 928) (-3296 1120 928)"
+			"plane" "(-3280 672 952) (-3296 672 952) (-3296 1120 952)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 32] 0.25"
 			"vaxis" "[0 -1 0 24] 0.25"

@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7006"
-	"mapversion" "11416"
+	"editorbuild" "7026"
+	"mapversion" "11420"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "27"
+	"mapversion" "5"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -27290,10 +27290,10 @@ world
 		side
 		{
 			"id" "1353561"
-			"plane" "(2688 272 448) (2560 272 448) (2560 256 448)"
+			"plane" "(2688 256 112) (2560 256 112) (2560 240 112)"
 			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 1 0 0] 0.25"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -27301,7 +27301,7 @@ world
 		side
 		{
 			"id" "1353560"
-			"plane" "(2688 256 1216) (2688 256 448) (2560 256 448)"
+			"plane" "(2688 240 1216) (2688 240 112) (2560 240 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -27312,7 +27312,7 @@ world
 		side
 		{
 			"id" "1353559"
-			"plane" "(2560 272 1216) (2560 272 448) (2688 272 448)"
+			"plane" "(2560 256 1216) (2560 256 112) (2688 256 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -27323,7 +27323,7 @@ world
 		side
 		{
 			"id" "1353558"
-			"plane" "(2560 256 1216) (2560 256 448) (2560 272 448)"
+			"plane" "(2560 240 1216) (2560 240 112) (2560 256 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -27334,7 +27334,7 @@ world
 		side
 		{
 			"id" "1353557"
-			"plane" "(2688 272 1216) (2688 272 448) (2688 256 448)"
+			"plane" "(2688 256 1216) (2688 256 112) (2688 240 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -27345,7 +27345,7 @@ world
 		side
 		{
 			"id" "1353556"
-			"plane" "(2688 256 1216) (2560 256 1216) (2560 272 1216)"
+			"plane" "(2688 240 1216) (2560 240 1216) (2560 256 1216)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -32309,7 +32309,7 @@ world
 			"plane" "(824 -956 160) (1024 -956 160) (1024 -956 192)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 -0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -32331,7 +32331,7 @@ world
 			"plane" "(824 -960 160) (824 -956 160) (824 -956 192)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 -0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -44916,8 +44916,8 @@ entity
 			"id" "913561"
 			"plane" "(2688 240 288) (2560 240 288) (2560 256 288)"
 			"material" "METAL/IMETAL006"
-			"uaxis" "[-1 0 0 576] 0.25"
-			"vaxis" "[0 1 0 64] 0.25"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -59572,7 +59572,7 @@ entity
 	"EndV" "0"
 	"fademindist" "-1"
 	"material" "tools/toolsblack"
-	"sides" ""
+	"sides" "1355300"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-17.4469 -23.2218 0"
@@ -59600,7 +59600,7 @@ entity
 	"EndV" "0"
 	"fademindist" "-1"
 	"material" "tools/toolsblack"
-	"sides" ""
+	"sides" "1355300"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-17.4716 -23.5609 0"

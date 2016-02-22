@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7006"
-	"mapversion" "109"
+	"editorbuild" "7026"
+	"mapversion" "119"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "6"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -4648,7 +4648,7 @@ world
 		side
 		{
 			"id" "8985"
-			"plane" "(-2688 -272 448) (-2560 -272 448) (-2560 -256 448)"
+			"plane" "(-2560 -240 112) (-2688 -240 112) (-2688 -256 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 -0.00390625] 0.25"
 			"vaxis" "[0 -1 0 0.00213217] 0.25"
@@ -4659,7 +4659,7 @@ world
 		side
 		{
 			"id" "8984"
-			"plane" "(-2688 -256 1216) (-2688 -256 448) (-2560 -256 448)"
+			"plane" "(-2688 -240 1216) (-2688 -240 112) (-2560 -240 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 -0.00390625] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4670,7 +4670,7 @@ world
 		side
 		{
 			"id" "8983"
-			"plane" "(-2560 -272 1216) (-2560 -272 448) (-2688 -272 448)"
+			"plane" "(-2560 -256 1216) (-2560 -256 112) (-2688 -256 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[-1 0 0 0.00390625] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4681,7 +4681,7 @@ world
 		side
 		{
 			"id" "8982"
-			"plane" "(-2560 -256 1216) (-2560 -256 448) (-2560 -272 448)"
+			"plane" "(-2560 -240 1216) (-2560 -240 112) (-2560 -256 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 -0.00213217] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4692,7 +4692,7 @@ world
 		side
 		{
 			"id" "8981"
-			"plane" "(-2688 -272 1216) (-2688 -272 448) (-2688 -256 448)"
+			"plane" "(-2688 -256 1216) (-2688 -256 112) (-2688 -240 112)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 -0.00213217] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4703,10 +4703,10 @@ world
 		side
 		{
 			"id" "8980"
-			"plane" "(-2688 -256 1216) (-2560 -256 1216) (-2560 -272 1216)"
+			"plane" "(-2560 -256 1216) (-2688 -256 1216) (-2688 -240 1216)"
 			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[-1 0 0 0.00390625] 0.25"
-			"vaxis" "[0 1 0 -0.00213217] 0.25"
+			"uaxis" "[1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 -1 0 -0.00213217] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -33887,56 +33887,29 @@ entity
 {
 	"id" "1961"
 	"classname" "info_overlay"
-	"angles" "0 180 0"
-	"BasisNormal" "0 -1 0"
-	"BasisOrigin" "1275.57 -704 493.531"
-	"BasisU" "1 0 0"
-	"BasisV" "-0 0 1"
+	"angles" "0 0 0"
+	"BasisNormal" "-8.74228e-008 1 0"
+	"BasisOrigin" "-1276.11 704 493.531"
+	"BasisU" "-1 -8.74228e-008 0"
+	"BasisV" "0 0 1"
 	"EndU" "1"
 	"EndV" "0"
 	"fademindist" "-1"
 	"material" "tools/toolsblack"
+	"sides" "8674"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-17.4716 -23.5609 0"
 	"uv1" "-18.0564 23.5894 0"
 	"uv2" "17.5848 23.7125 0"
 	"uv3" "17.9432 -23.741 0"
-	"origin" "-1275.57 704 493.531"
+	"origin" "-1276.11 704 493.531"
 	editor
 	{
 		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 13500]"
-	}
-}
-entity
-{
-	"id" "1955"
-	"classname" "info_overlay"
-	"angles" "0 180 0"
-	"BasisNormal" "0 -1 0"
-	"BasisOrigin" "1218.31 -704 494"
-	"BasisU" "1 0 0"
-	"BasisV" "-0 0 1"
-	"EndU" "1"
-	"EndV" "0"
-	"fademindist" "-1"
-	"material" "tools/toolsblack"
-	"StartU" "0"
-	"StartV" "1"
-	"uv0" "-17.4469 -23.2218 0"
-	"uv1" "-17.9186 23.1851 0"
-	"uv2" "17.6237 23.3033 0"
-	"uv3" "17.7421 -23.2665 0"
-	"origin" "-1218.31 704 494"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 14000]"
 	}
 }
 entity
@@ -48379,8 +48352,8 @@ entity
 			"id" "7973"
 			"plane" "(-2688 -240 288) (-2560 -240 288) (-2560 -256 288)"
 			"material" "METAL/IMETAL006"
-			"uaxis" "[1 0 0 -448.004] 0.25"
-			"vaxis" "[0 -1 0 64.0021] 0.25"
+			"uaxis" "[1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 -1 0 0.00213217] 0.25"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -57509,7 +57482,7 @@ entity
 	"lightmapresolutiony" "0"
 	"model" "models/props_trainyard/handrail608.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-2236 -19.9997 288"
 	editor
 	{
@@ -60078,6 +60051,35 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "3550174"
+	"classname" "info_overlay"
+	"angles" "0 0 0"
+	"BasisNormal" "-8.74228e-008 1 0"
+	"BasisOrigin" "-1220 706 493.531"
+	"BasisU" "-1 -8.74228e-008 0"
+	"BasisV" "0 0 1"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "tools/toolsblack"
+	"sides" "8674"
+	"StartU" "0"
+	"StartV" "1"
+	"uv0" "-17.4716 -23.5609 0"
+	"uv1" "-18.0564 23.5894 0"
+	"uv2" "17.5848 23.7125 0"
+	"uv3" "17.9432 -23.741 0"
+	"origin" "-1220 706 493.531"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 13500]"
 	}
 }
 cameras

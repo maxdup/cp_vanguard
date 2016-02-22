@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7006"
-	"mapversion" "40"
+	"editorbuild" "7026"
+	"mapversion" "44"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "1"
+	"mapversion" "27"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -13045,83 +13045,80 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
-	hidden
+	solid
 	{
-		solid
+		"id" "3543022"
+		side
 		{
-			"id" "3543022"
-			side
-			{
-				"id" "3754"
-				"plane" "(-602 673 78) (-338 673 254) (-338 505 254)"
-				"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
-				"uaxis" "[-1 0 0 0] 0.25"
-				"vaxis" "[0 1 0 -4] 0.25"
-				"rotation" "0"
-				"lightmapscale" "16"
-				"smoothing_groups" "0"
-			}
-			side
-			{
-				"id" "3753"
-				"plane" "(-602 505 70) (-338 505 246) (-338 673 246)"
-				"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
-				"uaxis" "[-1 0 0 0] 0.25"
-				"vaxis" "[0 1 0 -4] 0.25"
-				"rotation" "0"
-				"lightmapscale" "16"
-				"smoothing_groups" "0"
-			}
-			side
-			{
-				"id" "3752"
-				"plane" "(-338 673 254) (-338 673 246) (-338 505 246)"
-				"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
-				"uaxis" "[0 -1 0 4] 0.25"
-				"vaxis" "[0 0 -1 0] 0.25"
-				"rotation" "0"
-				"lightmapscale" "16"
-				"smoothing_groups" "0"
-			}
-			side
-			{
-				"id" "3751"
-				"plane" "(-602 505 78) (-602 505 70) (-602 673 70)"
-				"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
-				"uaxis" "[0 -1 0 4] 0.25"
-				"vaxis" "[0 0 -1 0] 0.25"
-				"rotation" "0"
-				"lightmapscale" "16"
-				"smoothing_groups" "0"
-			}
-			side
-			{
-				"id" "3750"
-				"plane" "(-338 505 254) (-338 505 246) (-602 505 70)"
-				"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
-				"uaxis" "[-1 0 0 0] 0.25"
-				"vaxis" "[0 0 -1 0] 0.25"
-				"rotation" "0"
-				"lightmapscale" "16"
-				"smoothing_groups" "0"
-			}
-			side
-			{
-				"id" "3749"
-				"plane" "(-602 673 78) (-602 673 70) (-338 673 246)"
-				"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
-				"uaxis" "[-1 0 0 0] 0.25"
-				"vaxis" "[0 0 -1 0] 0.25"
-				"rotation" "0"
-				"lightmapscale" "16"
-				"smoothing_groups" "0"
-			}
-			editor
-			{
-				"color" "0 156 185"
-				"visgroupshown" "1"
-				"visgroupautoshown" "1"
-			}
+			"id" "3754"
+			"plane" "(-602 673 78) (-338 673 254) (-338 505 254)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 -4] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3753"
+			"plane" "(-602 505 70) (-338 505 246) (-338 673 246)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 -4] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3752"
+			"plane" "(-338 673 254) (-338 673 246) (-338 505 246)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[0 -1 0 4] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3751"
+			"plane" "(-602 505 78) (-602 505 70) (-602 673 70)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[0 -1 0 4] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3750"
+			"plane" "(-338 505 254) (-338 505 246) (-602 505 70)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3749"
+			"plane" "(-602 673 78) (-602 673 70) (-338 673 246)"
+			"material" "TOOLS/TOOLSBLOCKBULLETSNOVIS"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 156 185"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
 		}
 	}
 	solid
@@ -26257,7 +26254,7 @@ entity
 	"model" "models/props_construction/scaffold_ground.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-3.99988 497 6.10352e-005"
 	editor
 	{
@@ -26287,7 +26284,7 @@ entity
 	"model" "models/props_construction/scaffold_ground.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-3.99994 657 0"
 	editor
 	{
@@ -26377,7 +26374,7 @@ entity
 	"model" "models/props_construction/scaffold_ground.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-332 506 0"
 	editor
 	{
@@ -26407,7 +26404,7 @@ entity
 	"model" "models/props_construction/scaffold_ground.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-332.001 666 6.10352e-005"
 	editor
 	{
@@ -26437,7 +26434,7 @@ entity
 	"model" "models/props_construction/scaffold_single_bar256.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-332.001 666 147"
 	editor
 	{
@@ -26467,7 +26464,7 @@ entity
 	"model" "models/props_construction/scaffold_single_bar256.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-332 506 147"
 	editor
 	{
@@ -27501,7 +27498,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 150 171"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}

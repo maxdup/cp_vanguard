@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7006"
-	"mapversion" "36"
+	"editorbuild" "7026"
+	"mapversion" "38"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "79"
+	"mapversion" "18"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -6610,7 +6610,7 @@ world
 		{
 			"id" "1617"
 			"plane" "(1252 992 588) (1252 608 396) (1252 608 400)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "WOOD/WOOD_FLOOR001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -6805,7 +6805,7 @@ world
 		{
 			"id" "1769"
 			"plane" "(1252 800 176) (1252 608 176) (1252 608 396)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "WOOD/WOOD_FLOOR001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -7326,7 +7326,7 @@ world
 		{
 			"id" "1816"
 			"plane" "(1248 996 320) (336 996 320) (336 1856 320)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSBLACK"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -7858,7 +7858,7 @@ world
 		{
 			"id" "2118"
 			"plane" "(1536 1104 320) (1248 1104 320) (1248 1856 320)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSBLACK"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -7934,7 +7934,7 @@ world
 		{
 			"id" "2130"
 			"plane" "(288 996 320) (288 1856 320) (336 1856 320)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSBLACK"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
