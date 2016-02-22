@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7026"
-	"mapversion" "884"
+	"mapversion" "886"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "14"
+	"mapversion" "4"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -24761,6 +24761,83 @@ world
 	}
 	solid
 	{
+		"id" "3594301"
+		side
+		{
+			"id" "29279"
+			"plane" "(3300 116 448) (3300 116 160) (3300 128 160)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "29278"
+			"plane" "(3824 128 448) (3824 128 160) (3824 116 160)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "29277"
+			"plane" "(3824 116 448) (3824 116 160) (3300 116 160)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "29276"
+			"plane" "(3300 128 448) (3300 128 160) (3824 128 160)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "29275"
+			"plane" "(3300 128 160) (3300 116 160) (3824 116 160)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "29274"
+			"plane" "(3300 116 448) (3300 128 448) (3824 128 448)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "200 100 100"
+			"visgroupid" "22"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
 		"id" "3550769"
 		side
 		{
@@ -24891,83 +24968,6 @@ world
 		{
 			"color" "138 243 0"
 			"groupid" "3551165"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "3594301"
-		side
-		{
-			"id" "29279"
-			"plane" "(3300 116 448) (3300 116 160) (3300 128 160)"
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29278"
-			"plane" "(3824 128 448) (3824 128 160) (3824 116 160)"
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29277"
-			"plane" "(3824 116 448) (3824 116 160) (3300 116 160)"
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29276"
-			"plane" "(3300 128 448) (3300 128 160) (3824 128 160)"
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29275"
-			"plane" "(3300 128 160) (3300 116 160) (3824 116 160)"
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "29274"
-			"plane" "(3300 116 448) (3300 128 448) (3824 128 448)"
-			"material" "TOOLS/TOOLSCLIP"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "200 100 100"
-			"visgroupid" "22"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -69061,7 +69061,7 @@ entity
 	"generatelightmaps" "0"
 	"lightmapresolutionx" "0"
 	"lightmapresolutiony" "0"
-	"model" "models/props_mvm/construction_light02.mdl"
+	"model" "models/props_mvm/construction_light03.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "3662.81 -623.138 382.459"
@@ -69821,7 +69821,7 @@ entity
 	"generatelightmaps" "0"
 	"lightmapresolutionx" "0"
 	"lightmapresolutiony" "0"
-	"model" "models/props_mvm/construction_light02.mdl"
+	"model" "models/props_mvm/construction_light03.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "3638.33 -1672.86 384.709"

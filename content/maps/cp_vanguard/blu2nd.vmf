@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7026"
-	"mapversion" "80"
+	"mapversion" "81"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "8"
+	"mapversion" "5"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -6670,7 +6670,7 @@ entity
 	"generatelightmaps" "0"
 	"lightmapresolutionx" "0"
 	"lightmapresolutiony" "0"
-	"model" "models/props_mvm/construction_light02.mdl"
+	"model" "models/props_mvm/construction_light03.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "-1737.36 1064.64 174.459"
