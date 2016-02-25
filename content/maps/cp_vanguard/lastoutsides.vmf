@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7026"
-	"mapversion" "431"
+	"mapversion" "433"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -25811,7 +25811,7 @@ entity
 {
 	"id" "3588519"
 	"classname" "func_lod"
-	"DisappearDist" "2300"
+	"DisappearDist" "2600"
 	"Solid" "1"
 	solid
 	{
@@ -26205,7 +26205,7 @@ entity
 {
 	"id" "3588541"
 	"classname" "func_lod"
-	"DisappearDist" "2300"
+	"DisappearDist" "2600"
 	"Solid" "1"
 	solid
 	{
