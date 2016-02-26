@@ -1,5 +1,17 @@
 scripts/soundscapes_cp_vanguard.txt
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/scripts/soundscapes_cp_vanguard.txt
+models/props_mvm/construction_light03.mdl
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/construction_light03.mdl
+models/props_mvm/construction_light03.dx80.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/construction_light03.dx80.vtx
+models/props_mvm/construction_light03.dx90.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/construction_light03.dx90.vtx
+models/props_mvm/construction_light03.phy
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/construction_light03.phy
+models/props_mvm/construction_light03.sw.vtx
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/construction_light03.sw.vtx
+models/props_mvm/construction_light03.vvd
+C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_mvm/construction_light03.vvd
 models/props_construction/scaffold_single_bar256.mdl
 C:\Program Files (x86)\Steam\SteamApps\Common\Team Fortress 2\tf/models/props_construction/scaffold_single_bar256.mdl
 models/props_construction/scaffold_single_bar256.dx80.vtx
