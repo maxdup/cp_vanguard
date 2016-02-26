@@ -1,8 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture		"construction/fabric/fabric003"
-	$surfaceprop		carpet
-	$translucent		1
-	$nocull			1
-	%keywords		"tf"
-}
